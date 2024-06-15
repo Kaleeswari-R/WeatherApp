@@ -32,5 +32,5 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/WeatherApp/WeatherApp.git
+   git clone https://github.com/Kaleeswari-R/WeatherApp.git
    cd WeatherApp
